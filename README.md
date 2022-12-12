@@ -8,7 +8,7 @@ RA: 204381 \
 Professor:Sandro Rigo 
 
 Tarefa 2 - Visualização de Dados \
-Notebook Jupyter: [https://github.com/everaldoalves/rcp-MO430-tarefas/blob/main/Tarefa%2002/Tarefa_02.ipynb]
+Notebook Jupyter:
 (https://github.com/everaldoalves/mo430/blob/main/Tarefa2-Everaldo-RA204183.ipynb) 
 
 Tarefa 3 - Testes Estatísticos \
