@@ -12,5 +12,5 @@ Notebook Jupyter:
 (https://github.com/everaldoalves/mo430/blob/main/Tarefa2-Everaldo-RA204183.ipynb) 
 
 Tarefa 3 - Testes Estatísticos \
-Notebook Jupyter: [https://github.com/everaldoalves/blob/main/Tarefa%2003/Tarefa_03.ipynb
-](https://github.com/everaldoalves/mo430/blob/8663f53ffc612bcde360a49ec0cdb3ef37e7b5dd/Tarefa3-Everaldo-RA204183.ipynb)
+Notebook Jupyter: 
+(https://github.com/everaldoalves/mo430/blob/main/Tarefa3-Everaldo-RA204182.ipynb)
